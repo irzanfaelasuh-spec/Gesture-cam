@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+.DS_Store
+*.iml
+app/src/main/assets/hand_landmarker.task.download
+
+__pycache__/
+*.pyc
