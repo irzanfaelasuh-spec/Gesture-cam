@@ -1,6 +1,6 @@
-
 package com.gestra.camera
 
+import android.view.animation.DecelerateInterpolator
 import android.Manifest
 import android.animation.ValueAnimator
 import android.content.Intent
